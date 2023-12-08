@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjranalli/nightwind.git"
+    "url": "git+https://github.com/Bored-Programmers/nightwind.git"
   },
   "keywords": [
     "tailwind",
